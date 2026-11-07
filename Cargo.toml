@@ -1,0 +1,10 @@
+[package]
+name = "tajweed-rs-waqf-ibtida-analyzer"
+version = "1.0.0"
+edition = "2021"
+description = "Syntactic-Semantic Waqf & Ibtida Pause Classifier"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "tajweed_rs_waqf_ibtida_analyzer"
+path = "main.rs"
